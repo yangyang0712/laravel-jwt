@@ -1,5 +1,7 @@
 本项目是用laravel制作API认证使用插件jwt
+
 项目说明
+
 1：composer 安装 composer require tymon/jwt-auth:1.0.0-rc.4.1
 
 2：设置数据库、将生成的token存在数据库中、（本项目中默认迁移了一个数据，密钥使用的是laravel bcrypthan函数生成的）
